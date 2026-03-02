@@ -1,1 +1,0 @@
-math(a, b, symbol
