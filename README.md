@@ -43,7 +43,7 @@ called display().
 12. Write a program to accept a student’s name and three marks. Calculate the total and average, and display
 the result using a class and object.
 
-Output
+
 13. Create a class Car with attributes make, model, and year. The class should have a method displayDetails()
 that prints the details of the car. Include a constructor to initialize these attributes. Create an instance of
 the Car class and display its details.
@@ -54,11 +54,9 @@ the Car class and display its details.
     Withdraw an amount of 5,000.
     Display account details.
 
-Output
 15. Create a program to accept three numbers and find the largest and second largest numbers using 
 object-oriented principles.
 
-Output
 16. Write a program to store N elements in an array of integers. Display the elements, then accept 
 a number to search for. Display whether the number is found using a linear search method within a class.
  
